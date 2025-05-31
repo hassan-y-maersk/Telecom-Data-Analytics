@@ -1,0 +1,50 @@
+Tata Communications,Enterprise Solutions,Poor,465937,Hyderabad
+ACT Fibernet,Broadband,Excellent,668909,Kolkata
+BSNL,DTH,Poor,326314,Delhi
+MTNL,DTH,Good,879371,Mumbai
+Airtel,Mobile Postpaid,Good,418773,Hyderabad
+BSNL,Enterprise Solutions,Average,772109,Mumbai
+ACT Fibernet,Enterprise Solutions,Poor,823767,Mumbai
+MTNL,Enterprise Solutions,Excellent,528961,Mumbai
+You Broadband,Mobile Postpaid,Good,513480,Kolkata
+Airtel,Mobile Prepaid,Below Average,721042,Mumbai
+ACT Fibernet,Mobile Prepaid,Average,675161,Chennai
+Vi,Enterprise Solutions,Below Average,894997,Bangalore
+Hathway,DTH,Below Average,698179,Chennai
+Jio,Mobile Prepaid,Good,856083,Hyderabad
+MTNL,DTH,Excellent,728188,Mumbai
+Hathway,Broadband,Average,487406,Hyderabad
+MTNL,Enterprise Solutions,Poor,861721,Kolkata
+Hathway,Mobile Postpaid,Good,598851,Kolkata
+You Broadband,Mobile Prepaid,Excellent,659855,Bangalore
+Excitel,DTH,Excellent,444515,Chennai
+Excitel,Enterprise Solutions,Excellent,429857,Kolkata
+Vi,Mobile Prepaid,Excellent,525600,Bangalore
+You Broadband,Enterprise Solutions,Excellent,914960,Delhi
+Excitel,Mobile Prepaid,Poor,207027,Hyderabad
+Airtel,Enterprise Solutions,Good,509725,Kolkata
+Tata Communications,Broadband,Excellent,737878,Bangalore
+Airtel,Mobile Postpaid,Average,983619,Chennai
+Hathway,Broadband,Poor,556886,Bangalore
+You Broadband,DTH,Average,206201,Chennai
+BSNL,Mobile Postpaid,Poor,269060,Kolkata
+Vi,Mobile Postpaid,Below Average,263331,Mumbai
+Hathway,DTH,Excellent,891189,Hyderabad
+Jio,Enterprise Solutions,Average,836531,Bangalore
+Excitel,Mobile Prepaid,Good,67170,Chennai
+BSNL,Enterprise Solutions,Excellent,493136,Delhi
+BSNL,Mobile Prepaid,Below Average,562093,Kolkata
+Jio,Mobile Prepaid,Average,49685,Kolkata
+ACT Fibernet,DTH,Excellent,84944,Delhi
+Excitel,Enterprise Solutions,Below Average,385754,Bangalore
+You Broadband,DTH,Below Average,378160,Delhi
+Hathway,Broadband,Average,30427,Chennai
+Excitel,Broadband,Excellent,938949,Kolkata
+Airtel,Broadband,Below Average,205918,Mumbai
+BSNL,Mobile Prepaid,Average,541792,Chennai
+Airtel,Mobile Prepaid,Below Average,761880,Hyderabad
+Vi,Enterprise Solutions,Excellent,117754,Delhi
+Hathway,DTH,Excellent,715403,Delhi
+Excitel,Broadband,Below Average,572250,Mumbai
+MTNL,Mobile Postpaid,Average,26879,Mumbai
+BSNL,Broadband,Average,323178,Chennai

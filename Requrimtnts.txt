@@ -1,0 +1,19 @@
+How many total records are present in the file?
+
+List all companies that offer 'Broadband' services.
+
+Count how many companies are operating in 'Delhi'.
+
+Which companies have more than 500000 users?
+
+Calculate the total number of users across all records.
+
+List all unique service types present in the file.
+
+Print the names of companies that have a rating of 'Excellent' and offer 'Mobile Postpaid'.
+
+How many companies are located in 'Mumbai' with a rating of 'Poor' or 'Below Average'?
+
+Print companies that are not offering 'Enterprise Solutions'.
+
+Create a list of all companies with ratings other than 'Average'
